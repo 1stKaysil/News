@@ -14,7 +14,6 @@ var news = function news(type, data) {
     var msg = data.msgdata;
 		var bitly = new BitlyClient('22c59f2d679709228e2cab88b6f2c60308e316d3');
 	    var rssNews = {};
-	    //var rssCNN = await rssConverter.toJson('http://rss.cnn.com/rss/cnn_world.rss');
         var nowTime = date.getHours();
 	    var timeMsg = {};
 	
