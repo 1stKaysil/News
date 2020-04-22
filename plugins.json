@@ -1,0 +1,27 @@
+{
+	"plugin_name": "News",
+	"plugin_scope": "news",
+	"plugin_exec": "news.js",
+	"command_map": {
+		"news": {
+			"hargs": {
+				"vi_VN": "<1/2/3/4/5>",
+				"en_US": "<1/2/3/4/5>"
+			},
+			"hdesc": {
+				"vi_VN": "Đọc báo từ VN Express",
+				"en_US": "Read news from VN Express"
+			},
+			"fscope": "news",
+			"compatibly": 1
+		}
+	},
+	"author": "KAYSIL",
+	"version": "1.0",
+	"node_depends": {
+		"node-fetch": "",
+		"rss-converter": "",
+		"bitly": ""
+	},
+	"complied_for": "0.3.0"
+}
