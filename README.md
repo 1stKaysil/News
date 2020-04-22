@@ -1,4 +1,4 @@
-# News
-News plugin for C3CBot
+# NEWS PLUGIN #
 
-upload soon
+### News plugin for C3CBot ://
+## Author: me
