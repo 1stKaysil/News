@@ -9,5 +9,5 @@
    - subcommand: <vnex-news/cnn-news>
       - switch page: <1/2/3/4/5>
 ### Example:
-/news vnex-news 1
-/news cnn-news 5
+- /news vnex-news 1<br>
+- /news cnn-news 5
