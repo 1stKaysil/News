@@ -1,6 +1,6 @@
 # NEWS PLUGIN #
-## News plugin for C3CBot
-## Author: Kaysil (me) ##
+### News plugin for C3CBot
+### Author: Kaysil (me) ##
 
 ### Usage/Using:
 - Put it to ./plugins folder then run your bot
