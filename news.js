@@ -1,10 +1,8 @@
-
-//
 var fetch = global.nodemodule["node-fetch"];
 var rssConverter = global.nodemodule["rss-converter"];
 var BitlyClient = global.nodemodule['bitly'].BitlyClient;
 var date = new Date();
-//
+
 
 var news = function news(type, data) {
 	(async function () {
